@@ -1,0 +1,83 @@
+.role-component {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.role-component .header span {
+    font-size: 14px;
+    font-weight: lighter;
+    font-family: ProximaRegular;
+}
+
+.role-component .role-grid .role-box {
+    box-shadow: 0px 0px 5px #c3c3c3;
+    padding:15px 10px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.role-component .role-grid .role-box-1:hover {
+    box-shadow: 0px 0px 8px #7BB1F1;
+}
+.role-component .role-grid .role-box-2:hover {
+    box-shadow: 0px 0px 8px #CFBCF2;
+}
+.role-component .role-grid .role-box-3:hover {
+    box-shadow: 0px 0px 8px #FCEFC7;;
+}
+.role-component .role-grid .role-box-4:hover {
+    box-shadow: 0px 0px 8px #C1EAC5;;
+}
+.role-component .role-grid .role-box-5:hover {
+    box-shadow: 0px 0px 8px #FACDCD;
+}
+
+.role-component .role-grid .role-box span {
+    font-size: 13px;
+    font-weight: lighter;
+    font-family: ProximaRegular;
+}
+
+.role-component .role-grid .role-box .colored-sq {
+    width: 90%;
+    margin: 2px auto;
+    height: 45px;
+    border-radius: 4px;
+}
+
+.role-component .role-grid .role-box .colored-sq-1{
+    background: #BAE3FF;
+}
+
+.role-component .role-grid .role-box .colored-sq-2{
+    background: #CFBCF2;
+}
+.role-component .role-grid .role-box .colored-sq-3{
+    background: #FCEFC7;
+}
+.role-component .role-grid .role-box .colored-sq-4{
+    background: #C1EAC5;
+}
+.role-component .role-grid .role-box .colored-sq-5 {
+    background: #FACDCD;
+}
+
+
+/* BASIC INFORMATION */
+
+.basic-information {
+    width: 70%;
+    margin: 100px auto;
+}
+
+.basic-information .image-placeholder {
+    width: 100%;
+    background: #F5F7FA;
+    height: 150px;
+    border: 1px dashed #E0E4E9
+}
+
+.basic-information .span-info {
+    font-size: 13px;
+    color: #616E7C;
+}

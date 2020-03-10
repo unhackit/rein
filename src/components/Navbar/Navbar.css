@@ -1,0 +1,12 @@
+.nav-primary {
+    background-color: #0552B5;
+}
+
+.nav-primary .nav-link{
+    color: #fff;
+}
+
+.nav-primary .nav-link:hover {
+    color: #F1F0F4;
+    transform: scale(1.1);
+}

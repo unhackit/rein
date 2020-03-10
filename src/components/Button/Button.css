@@ -1,0 +1,16 @@
+button {
+    border-radius: 5px;
+}
+
+.primary-button {
+    width: 100%;
+    background: #0967d2;
+    color: #fff;
+}
+
+.primary-button:hover {
+    width: 100%;
+    color: #0967D2;
+    background: #fff;
+    border:1px solid #0967D2;
+}
